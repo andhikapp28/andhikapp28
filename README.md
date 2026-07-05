@@ -29,13 +29,13 @@
 
 <!-- ▶ NOW PLAYING typing line (VT323 + pink) -->
 <a href="https://github.com/andhikapp28">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=30&pause=1000&color=FFB6C1&center=true&vCenter=true&width=680&lines=Full-Stack+Wanderer+%E2%80%A2+Union+Lv.70;Wuthering+Waves+enjoyer+%E2%9A%87;Coding+%2B+gacha+grind+%E2%9C%A6" alt="tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=30&pause=1000&color=FFB6C1&center=true&vCenter=true&width=720&lines=System+Analyst+%E2%80%A2+Technical+Writer+%E2%80%A2+QA;Ngoding+suka-suka+pas+lagi+mood+%E2%9C%A6;Wuthering+Waves+enjoyer+%E2%80%A2+gacha+grind+%E2%9A%91" alt="tagline" />
 </a>
 
 <br>
 
 <!-- Terminal boot box, rendered as a green-on-ink typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=22&pause=900&color=9DF7D0&background=1C1428&center=false&vCenter=true&multiline=true&width=560&height=110&lines=%3E+loading+union_lv.exe...;%3E+resonating+Wuthering+Waves+%E2%8C%87;%3E+status%3A+coding+%2B+gacha+grind" alt="terminal" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=22&pause=900&color=9DF7D0&background=1C1428&center=false&vCenter=true&multiline=true&width=600&height=110&lines=%3E+booting+profile.sys...;%3E+role%3A+sysanalyst+%2F+techwriter+%2F+qa;%3E+status%3A+ngoding+kalau+mood+%2B+gacha+grind" alt="terminal" />
 
 <br><br>
 
@@ -71,14 +71,18 @@
 <div align="center">
 
 <!-- Chunky pastel chips cycling the design's 4-color chip palette -->
+<!-- Row: languages I dabble in when the mood hits -->
 ![JavaScript](https://img.shields.io/badge/JavaScript-ffb6c1?style=for-the-badge&logo=javascript&logoColor=2b2438)
 ![TypeScript](https://img.shields.io/badge/TypeScript-a3c9a8?style=for-the-badge&logo=typescript&logoColor=2b2438)
-![React](https://img.shields.io/badge/React-6fd8d1?style=for-the-badge&logo=react&logoColor=2b2438)
-![Node.js](https://img.shields.io/badge/Node.js-3d2b4f?style=for-the-badge&logo=nodedotjs&logoColor=fdf6ec)
-![Python](https://img.shields.io/badge/Python-ffb6c1?style=for-the-badge&logo=python&logoColor=2b2438)
-![Docker](https://img.shields.io/badge/Docker-a3c9a8?style=for-the-badge&logo=docker&logoColor=2b2438)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6fd8d1?style=for-the-badge&logo=postgresql&logoColor=2b2438)
-![Figma](https://img.shields.io/badge/Figma-3d2b4f?style=for-the-badge&logo=figma&logoColor=fdf6ec)
+![PHP](https://img.shields.io/badge/PHP-6fd8d1?style=for-the-badge&logo=php&logoColor=2b2438)
+![Python](https://img.shields.io/badge/Python-3d2b4f?style=for-the-badge&logo=python&logoColor=fdf6ec)
+![C++](https://img.shields.io/badge/C%2B%2B-ffb6c1?style=for-the-badge&logo=cplusplus&logoColor=2b2438)
+
+<!-- Row: day-job tools — analysis, testing, writing -->
+![Postman](https://img.shields.io/badge/Postman-a3c9a8?style=for-the-badge&logo=postman&logoColor=2b2438)
+![Figma](https://img.shields.io/badge/Figma-6fd8d1?style=for-the-badge&logo=figma&logoColor=2b2438)
+![Notion](https://img.shields.io/badge/Notion-3d2b4f?style=for-the-badge&logo=notion&logoColor=fdf6ec)
+![Markdown](https://img.shields.io/badge/Markdown-ffb6c1?style=for-the-badge&logo=markdown&logoColor=2b2438)
 
 </div>
 
