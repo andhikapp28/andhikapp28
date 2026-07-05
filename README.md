@@ -38,7 +38,7 @@
 <table>
   <tr>
     <td width="230" valign="middle" align="center">
-      <img width="210" height="210" src="https://github.com/andhikapp28.png?size=420" alt="Dipa" />
+      <img width="210" height="210" src="./assets/lupatc.gif" alt="Dipa" />
     </td>
     <td valign="middle">
 <pre>
