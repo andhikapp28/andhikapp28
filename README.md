@@ -34,13 +34,23 @@
 <!-- ══════════════════ > whoami ══════════════════ -->
 ## &gt; whoami
 
-```text
+<!-- Photo = GitHub avatar (already 1:1). Swap src to ./assets/<file> for a custom photo. -->
+<table>
+  <tr>
+    <td width="230" valign="middle" align="center">
+      <img width="210" height="210" src="https://github.com/andhikapp28.png?size=420" alt="Dipa" />
+    </td>
+    <td valign="middle">
+<pre>
 Nama   : Andhika Putra (Dipa)
 Kampus : Institut Teknologi Sumatera (ITERA)
 Lokasi : Indonesia
 Role   : System Analyst · Technical Writer · QA · he/him
 Now    : Wuthering Waves enjoyer + ngoding kalau lagi mood saja
-```
+</pre>
+    </td>
+  </tr>
+</table>
 
 <br>
 
