@@ -51,15 +51,15 @@
 
 <div align="center">
 
-<!-- Stats + Streak, wired with the design's exact holi palette -->
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=andhikapp28&show_icons=true&theme=holi&hide_border=true&bg_color=1c1428&title_color=ffb6c1&text_color=fdf6ec&icon_color=6fd8d1" alt="STATS.VHS" />
+<!-- Coding stats + streak — reliable services, retro pink/cyan on ink -->
+<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=andhikapp28&theme=radical" alt="STATS.VHS" />
 &nbsp;
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=andhikapp28&theme=holi-theme&hide_border=true&background=1c1428&ring=ff5ca8&fire=ffb6c1&currStreakLabel=fdf6ec" alt="STREAK.VHS" />
+<img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=andhikapp28&theme=holi-theme&hide_border=true&background=1c1428&ring=ff5ca8&fire=ffb6c1&currStreakLabel=fdf6ec" alt="STREAK.VHS" />
 
 <br><br>
 
-<!-- Top languages, same VHS palette -->
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andhikapp28&layout=compact&langs_count=8&theme=holi&hide_border=true&bg_color=1c1428&title_color=6fd8d1&text_color=fdf6ec" alt="TOP-LANGS.VHS" />
+<!-- Contribution "signal" — VHS waveform in the exact palette -->
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=andhikapp28&custom_title=SIGNAL.VHS%20%C2%B7%20CONTRIBUTION%20WAVEFORM&bg_color=1c1428&color=fdf6ec&title_color=ffb6c1&line=ff5ca8&point=6fd8d1&area=true&area_color=3d2b4f&hide_border=true" alt="SIGNAL.VHS" />
 
 </div>
 
@@ -106,7 +106,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🩵 TACET-CLI &nbsp;<kbd>STABLE</kbd></h3>
+      <h3>💠 TACET-CLI &nbsp;<kbd>STABLE</kbd></h3>
       <p>CLI generator boilerplate, dinamain dari istilah "Tacet Field" biar makin niche.</p>
       <p>
         <img src="https://img.shields.io/badge/-cli-eee6f5?style=flat-square&labelColor=eee6f5&color=3d2b4f" />
@@ -147,9 +147,9 @@
 <a href="https://discord.com/users/yourid"><img src="https://img.shields.io/badge/%F0%9F%8E%AE%20Discord-3d2b4f?style=for-the-badge&labelColor=ffb6c1&color=3d2b4f" alt="Discord" /></a>
 <a href="https://youtube.com/@yourchannel"><img src="https://img.shields.io/badge/%E2%96%B6%20YouTube-3d2b4f?style=for-the-badge&labelColor=ffb6c1&color=3d2b4f" alt="YouTube" /></a>
 
-<br><br>
+<br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1428,50:3d2b4f,100:2b1f3d&height=120&section=footer&text=%E2%97%80%E2%97%80%20BE%20KIND%2C%20PLEASE%20REWIND%20%E2%96%B6%E2%96%B6&fontColor=a3c9a8&fontSize=20&fontAlignY=80" alt="be kind please rewind" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1428,50:3d2b4f,100:2b1f3d&height=100&section=footer&text=%E2%97%80%E2%97%80%20BE%20KIND%2C%20PLEASE%20REWIND%20%E2%96%B6%E2%96%B6&fontColor=a3c9a8&fontSize=20&fontAlignY=72" alt="be kind please rewind" />
 
 <sub>◀◀ REWIND · TAPE END ▶▶ &nbsp;·&nbsp; profile views: <img src="https://komarev.com/ghpvc/?username=andhikapp28&color=ff5ca8&style=flat-square&label=CH-02+VIEWS" alt="views" /></sub>
 
