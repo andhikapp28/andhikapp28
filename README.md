@@ -19,31 +19,37 @@
 <!-- ══════════════════ HERO ══════════════════ -->
 <div align="center">
 
-<!-- REC ● CH-02  bar -->
-<kbd>🔴 REC ● CH-02</kbd> &nbsp;&nbsp; <kbd>05 JUL 2026 · 20:26</kbd>
-
-<br><br>
-
 <!-- Waving VHS banner with the display name -->
 <!-- Custom animated SVG (embedded fonts + resonance rings / equalizer / particles / shimmer). Edit assets/banner.svg to tweak. -->
 <img width="100%" src="./assets/banner.svg" alt="Dipa — NOW PLAYING · REC ● CH-02" />
 
-<!-- ▶ NOW PLAYING typing line (VT323 + pink) -->
-<a href="https://github.com/andhikapp28">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=30&pause=1000&color=FFB6C1&center=true&vCenter=true&width=720&lines=System+Analyst+%E2%80%A2+Technical+Writer+%E2%80%A2+QA;Ngoding+suka-suka+pas+lagi+mood+%E2%9C%A6;Wuthering+Waves+enjoyer+%E2%80%A2+gacha+grind+%E2%9A%91" alt="tagline" />
-</a>
+<br><br>
 
-<br>
-
-<!-- Terminal boot box, rendered as a green-on-ink typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=22&pause=900&color=9DF7D0&background=1C1428&center=false&vCenter=true&multiline=true&width=600&height=110&lines=%3E+booting+profile.sys...;%3E+role%3A+sysanalyst+%2F+techwriter+%2F+qa;%3E+status%3A+ngoding+kalau+mood+%2B+gacha+grind" alt="terminal" />
+<!-- ══ TACET MARK — cropped clip (assets/tcmark.gif) ══ -->
+<img width="82%" src="./assets/tcmark.gif" alt="Tacet Mark" />
 
 <br><br>
 
-<!-- Marquee ticker (static in Markdown, but keeps the flavor) -->
-<kbd>★ WELCOME TO MY CHANNEL ★ &nbsp; SEKARANG PUTAR: dipa.README &nbsp; ★ JANGAN LUPA REWIND ★</kbd>
+<!-- ══ typing line (VT323 + pink) ══ -->
+<img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=30&pause=1000&color=FF5CA8&center=true&vCenter=true&width=620&lines=%3E+resonating+Wuthering+Waves" alt="&gt; resonating Wuthering Waves" />
+
+<br>
+
+<!-- ══ TACET FIELD radar scan (animated SVG) ══ -->
+<img width="560" src="./assets/tacet-field.svg" alt="TACET FIELD // SCANNING — 3 echoes detected · resonance stable" />
 
 </div>
+
+<!-- ══════════════════ > whoami ══════════════════ -->
+## &gt; whoami
+
+```text
+Nama   : Andhika Putra Pratama (Dipa)
+Kampus : Institut Teknologi Sumatera (ITERA)
+Lokasi : Indonesia
+Role   : System Analyst · Technical Writer · QA · he/him
+Now    : Wuthering Waves enjoyer + ngoding kalau lagi mood
+```
 
 <br>
 
