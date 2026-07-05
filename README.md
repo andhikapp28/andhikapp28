@@ -23,11 +23,8 @@
 <!-- Custom animated SVG (embedded fonts + resonance rings / equalizer / particles / shimmer). Edit assets/banner.svg to tweak. -->
 <img width="100%" src="./assets/banner.svg" alt="Dipa — NOW PLAYING · REC ● CH-02" />
 
-
-
 <!-- ══ typing line (VT323 + pink) ══ -->
 <img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=30&pause=1000&color=FF5CA8&center=true&vCenter=true&width=620&lines=%3E+resonating+Wuthering+Waves" alt="&gt; resonating Wuthering Waves" />
-
 
 </div>
 
@@ -35,7 +32,7 @@
 ## &gt; whoami
 
 <!-- Photo = GitHub avatar (already 1:1). Swap src to ./assets/<file> for a custom photo. -->
-<table>
+<table align="center">
   <tr>
     <td width="230" valign="middle" align="center">
       <img width="210" height="210" src="./assets/lupatc.gif" alt="Dipa" />
