@@ -56,14 +56,19 @@ Now    : Wuthering Waves enjoyer + ngoding kalau lagi mood saja
 
 <div align="center">
 
-<!-- Coding stats + streak — reliable services, retro pink/cyan on ink -->
+<!-- Row 1: coding stats + streak — reliable services, retro pink/cyan on ink -->
 <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=andhikapp28&theme=radical" alt="STATS.VHS" />
-&nbsp;
+&nbsp;&nbsp;
 <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=andhikapp28&theme=holi-theme&hide_border=true&background=1c1428&ring=ff5ca8&fire=ffb6c1&currStreakLabel=fdf6ec" alt="STREAK.VHS" />
 
 <br><br>
 
-<!-- Contribution "signal" — VHS waveform in the exact palette -->
+<!-- Row 2: Most Used Languages — custom SVG, real byte-count data from public repos -->
+<img width="460" src="./assets/langs.svg" alt="Most Used Languages: HTML 47.8%, CSS 14.9%, TypeScript 13.6%, JavaScript 12.9%, PHP 10.8%" />
+
+<br><br>
+
+<!-- Row 3: contribution "signal" — VHS waveform in the exact palette -->
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=andhikapp28&custom_title=SIGNAL.VHS%20%C2%B7%20CONTRIBUTION%20WAVEFORM&bg_color=1c1428&color=fdf6ec&title_color=ffb6c1&line=ff5ca8&point=6fd8d1&area=true&area_color=3d2b4f&hide_border=true" alt="SIGNAL.VHS" />
 
 </div>
