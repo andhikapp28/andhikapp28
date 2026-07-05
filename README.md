@@ -24,7 +24,7 @@
 <img width="100%" src="./assets/banner.svg" alt="Dipa — NOW PLAYING · REC ● CH-02" />
 
 <!-- ══ typing line (VT323 + pink) ══ -->
-<img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=30&pause=1000&color=FF5CA8&center=true&vCenter=true&width=620&lines=%3E+resonating+Wuthering+Waves" alt="&gt; resonating Wuthering Waves" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=30&pause=1000&color=FF5CA8&center=true&vCenter=true&width=620&lines=%3E+resonating" alt="&gt; resonating" />
 
 </div>
 
