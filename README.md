@@ -81,12 +81,12 @@ Now    : Wuthering Waves enjoyer + ngoding kalau lagi mood saja
 <div align="center">
 
 <!-- Chunky pastel chips cycling the design's 4-color chip palette -->
-<!-- Row: languages I dabble in when the mood hits -->
-![JavaScript](https://img.shields.io/badge/JavaScript-ffb6c1?style=for-the-badge&logo=javascript&logoColor=2b2438)
+<!-- Row: real top languages across my public repos (matches Most Used Languages card) -->
+![HTML](https://img.shields.io/badge/HTML-ff5ca8?style=for-the-badge&logo=html5&logoColor=2b2438)
+![CSS](https://img.shields.io/badge/CSS-6fd8d1?style=for-the-badge&logo=css3&logoColor=2b2438)
 ![TypeScript](https://img.shields.io/badge/TypeScript-a3c9a8?style=for-the-badge&logo=typescript&logoColor=2b2438)
-![PHP](https://img.shields.io/badge/PHP-6fd8d1?style=for-the-badge&logo=php&logoColor=2b2438)
-![Python](https://img.shields.io/badge/Python-3d2b4f?style=for-the-badge&logo=python&logoColor=fdf6ec)
-![C++](https://img.shields.io/badge/C%2B%2B-ffb6c1?style=for-the-badge&logo=cplusplus&logoColor=2b2438)
+![JavaScript](https://img.shields.io/badge/JavaScript-ffb6c1?style=for-the-badge&logo=javascript&logoColor=2b2438)
+![PHP](https://img.shields.io/badge/PHP-3d2b4f?style=for-the-badge&logo=php&logoColor=fdf6ec)
 
 <!-- Row: day-job tools — analysis, testing, writing -->
 ![Postman](https://img.shields.io/badge/Postman-a3c9a8?style=for-the-badge&logo=postman&logoColor=2b2438)
@@ -102,68 +102,29 @@ Now    : Wuthering Waves enjoyer + ngoding kalau lagi mood saja
 ## ◆ RENTAL SHELF — FEATURED PROJECTS
 
 <!--
-  Real repos, sorted by last push. Titles link to the repo.
-  When github-readme-stats is back up you can swap any card for a live pin:
-  [![repo](https://github-readme-stats.vercel.app/api/pin/?username=andhikapp28&repo=REPO&theme=holi&hide_border=true&bg_color=1c1428&title_color=ffb6c1&text_color=fdf6ec&icon_color=6fd8d1)](https://github.com/andhikapp28/REPO)
+  Simplified per latest Claude Design: repo icon + name + desc + lang/star/fork line.
+  Custom SVG (assets/rental-shelf.svg), real data (GitHub API). Titles are plain text —
+  wrap each card in a link if you want them clickable, or edit scratchpad gen_shelf.py to regenerate.
 -->
+<div align="center">
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🟣 <a href="https://github.com/andhikapp28/my-cf-katalog">my-cf-katalog</a> &nbsp;<kbd>★ NEW</kbd></h3>
-      <p>Katalog buat Comic Frontiers — bantu nyari circle & artist incaran sebelum hunting di venue.</p>
-      <p>
-        <img src="https://img.shields.io/badge/-TypeScript-eee6f5?style=flat-square&labelColor=eee6f5&color=3d2b4f" />
-        <img src="https://img.shields.io/badge/-katalog-eee6f5?style=flat-square&labelColor=eee6f5&color=3d2b4f" />
-        <img src="https://img.shields.io/badge/-doujin-eee6f5?style=flat-square&labelColor=eee6f5&color=3d2b4f" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌸 <a href="https://github.com/andhikapp28/mybini">mybini</a> &nbsp;<kbd>★ FUN</kbd></h3>
-      <p>List my bini — daftar waifu pilihan. Murni buat senang-senang, jangan dihakimi.</p>
-      <p>
-        <img src="https://img.shields.io/badge/-list-eee6f5?style=flat-square&labelColor=eee6f5&color=3d2b4f" />
-        <img src="https://img.shields.io/badge/-waifu-eee6f5?style=flat-square&labelColor=eee6f5&color=3d2b4f" />
-        <img src="https://img.shields.io/badge/-fun-eee6f5?style=flat-square&labelColor=eee6f5&color=3d2b4f" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💠 <a href="https://github.com/andhikapp28/loginformUI">loginformUI</a> &nbsp;<kbd>UI</kbd></h3>
-      <p>Eksperimen tampilan form login — main-main sama styling, layout, dan micro-interaction.</p>
-      <p>
-        <img src="https://img.shields.io/badge/-JavaScript-eee6f5?style=flat-square&labelColor=eee6f5&color=3d2b4f" />
-        <img src="https://img.shields.io/badge/-ui-eee6f5?style=flat-square&labelColor=eee6f5&color=3d2b4f" />
-        <img src="https://img.shields.io/badge/-css-eee6f5?style=flat-square&labelColor=eee6f5&color=3d2b4f" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🟢 <a href="https://github.com/andhikapp28/wuwek">wuwek</a> &nbsp;<kbd>WIP</kbd></h3>
-      <p>Sandbox eksperimen JavaScript — tempat coba-coba ide random sambil ngoprek.</p>
-      <p>
-        <img src="https://img.shields.io/badge/-JavaScript-eee6f5?style=flat-square&labelColor=eee6f5&color=3d2b4f" />
-        <img src="https://img.shields.io/badge/-sandbox-eee6f5?style=flat-square&labelColor=eee6f5&color=3d2b4f" />
-        <img src="https://img.shields.io/badge/-wip-eee6f5?style=flat-square&labelColor=eee6f5&color=3d2b4f" />
-      </p>
-    </td>
-  </tr>
-</table>
+<img width="100%" src="./assets/rental-shelf.svg" alt="Featured projects: my-cf-katalog, mybini, loginformUI, wuwek" />
+
+</div>
 
 <br>
 
 <!-- ══════════════════ FOOTER ══════════════════ -->
 <div align="center">
 
-<!-- Socials — swap the href links for your real handles (TODO) -->
-<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/%E2%9C%89%20Email-3d2b4f?style=for-the-badge&labelColor=ffb6c1&color=3d2b4f" alt="Email" /></a>
-<a href="https://discord.com/users/yourid"><img src="https://img.shields.io/badge/%F0%9F%8E%AE%20Discord-3d2b4f?style=for-the-badge&labelColor=ffb6c1&color=3d2b4f" alt="Discord" /></a>
-<a href="https://youtube.com/@yourchannel"><img src="https://img.shields.io/badge/%E2%96%B6%20YouTube-3d2b4f?style=for-the-badge&labelColor=ffb6c1&color=3d2b4f" alt="YouTube" /></a>
+<!-- Socials — swap the href links for your real handles (TODO). Colors match the hero banner gradient. -->
+<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/%E2%9C%89%20Email-ff5ca8?style=for-the-badge&logoColor=2b2438&labelColor=ff5ca8&color=ff5ca8" alt="Email" /></a>
+<a href="https://discord.com/users/yourid"><img src="https://img.shields.io/badge/%F0%9F%8E%AE%20Discord-2b1f3d?style=for-the-badge&labelColor=2b1f3d&color=2b1f3d" alt="Discord" /></a>
+<a href="https://youtube.com/@yourchannel"><img src="https://img.shields.io/badge/%E2%96%B6%20YouTube-a3c9a8?style=for-the-badge&labelColor=a3c9a8&color=a3c9a8" alt="YouTube" /></a>
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1428,50:3d2b4f,100:2b1f3d&height=100&section=footer&text=%E2%97%80%E2%97%80%20BE%20KIND%2C%20PLEASE%20REWIND%20%E2%96%B6%E2%96%B6&fontColor=a3c9a8&fontSize=20&fontAlignY=72" alt="be kind please rewind" />
-
-<sub>◀◀ REWIND · TAPE END ▶▶ &nbsp;·&nbsp; profile views: <img src="https://komarev.com/ghpvc/?username=andhikapp28&color=ff5ca8&style=flat-square&label=CH-02+VIEWS" alt="views" /></sub>
+<!-- Same gradient as the hero banner, no text -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2b1f3d,52:ff5ca8,100:a3c9a8&height=100&section=footer" alt="" />
 
 </div>
