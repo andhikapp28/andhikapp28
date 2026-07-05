@@ -88,50 +88,49 @@
 ## ◆ RENTAL SHELF — FEATURED PROJECTS
 
 <!--
-  These four cards mirror the design's featured shelf. Swap titles,
-  descriptions, links, and tags for your real repos. When you have
-  real repos, you can replace a card with a live pin, e.g.:
+  Real repos, sorted by last push. Titles link to the repo.
+  When github-readme-stats is back up you can swap any card for a live pin:
   [![repo](https://github-readme-stats.vercel.app/api/pin/?username=andhikapp28&repo=REPO&theme=holi&hide_border=true&bg_color=1c1428&title_color=ffb6c1&text_color=fdf6ec&icon_color=6fd8d1)](https://github.com/andhikapp28/REPO)
 -->
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🟣 ECHO-SYNC &nbsp;<kbd>★ NEW</kbd></h3>
-      <p>Real-time sync tool untuk tim remote — dibangun sambil dengerin OST battle theme.</p>
+      <h3>🟣 <a href="https://github.com/andhikapp28/my-cf-katalog">my-cf-katalog</a> &nbsp;<kbd>★ NEW</kbd></h3>
+      <p>Katalog buat Comic Frontiers — bantu nyari circle & artist incaran sebelum hunting di venue.</p>
       <p>
-        <img src="https://img.shields.io/badge/-realtime-eee6f5?style=flat-square&labelColor=eee6f5&color=3d2b4f" />
-        <img src="https://img.shields.io/badge/-websocket-eee6f5?style=flat-square&labelColor=eee6f5&color=3d2b4f" />
-        <img src="https://img.shields.io/badge/-react-eee6f5?style=flat-square&labelColor=eee6f5&color=3d2b4f" />
+        <img src="https://img.shields.io/badge/-TypeScript-eee6f5?style=flat-square&labelColor=eee6f5&color=3d2b4f" />
+        <img src="https://img.shields.io/badge/-katalog-eee6f5?style=flat-square&labelColor=eee6f5&color=3d2b4f" />
+        <img src="https://img.shields.io/badge/-doujin-eee6f5?style=flat-square&labelColor=eee6f5&color=3d2b4f" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>💠 TACET-CLI &nbsp;<kbd>STABLE</kbd></h3>
-      <p>CLI generator boilerplate, dinamain dari istilah "Tacet Field" biar makin niche.</p>
+      <h3>🌸 <a href="https://github.com/andhikapp28/mybini">mybini</a> &nbsp;<kbd>★ FUN</kbd></h3>
+      <p>List my bini — daftar waifu pilihan. Murni buat senang-senang, jangan dihakimi.</p>
       <p>
-        <img src="https://img.shields.io/badge/-cli-eee6f5?style=flat-square&labelColor=eee6f5&color=3d2b4f" />
-        <img src="https://img.shields.io/badge/-node-eee6f5?style=flat-square&labelColor=eee6f5&color=3d2b4f" />
-        <img src="https://img.shields.io/badge/-devtool-eee6f5?style=flat-square&labelColor=eee6f5&color=3d2b4f" />
+        <img src="https://img.shields.io/badge/-list-eee6f5?style=flat-square&labelColor=eee6f5&color=3d2b4f" />
+        <img src="https://img.shields.io/badge/-waifu-eee6f5?style=flat-square&labelColor=eee6f5&color=3d2b4f" />
+        <img src="https://img.shields.io/badge/-fun-eee6f5?style=flat-square&labelColor=eee6f5&color=3d2b4f" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🟢 RESONATOR-UI &nbsp;<kbd>WIP</kbd></h3>
-      <p>Component library retro-pastel buat side project pribadi.</p>
+      <h3>💠 <a href="https://github.com/andhikapp28/loginformUI">loginformUI</a> &nbsp;<kbd>UI</kbd></h3>
+      <p>Eksperimen tampilan form login — main-main sama styling, layout, dan micro-interaction.</p>
       <p>
-        <img src="https://img.shields.io/badge/-design--system-eee6f5?style=flat-square&labelColor=eee6f5&color=3d2b4f" />
+        <img src="https://img.shields.io/badge/-JavaScript-eee6f5?style=flat-square&labelColor=eee6f5&color=3d2b4f" />
+        <img src="https://img.shields.io/badge/-ui-eee6f5?style=flat-square&labelColor=eee6f5&color=3d2b4f" />
         <img src="https://img.shields.io/badge/-css-eee6f5?style=flat-square&labelColor=eee6f5&color=3d2b4f" />
-        <img src="https://img.shields.io/badge/-components-eee6f5?style=flat-square&labelColor=eee6f5&color=3d2b4f" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🌸 GACHA-TRACKER &nbsp;<kbd>★ FUN</kbd></h3>
-      <p>Web app kecil buat catat pull history & pity counter game gacha favorit.</p>
+      <h3>🟢 <a href="https://github.com/andhikapp28/wuwek">wuwek</a> &nbsp;<kbd>WIP</kbd></h3>
+      <p>Sandbox eksperimen JavaScript — tempat coba-coba ide random sambil ngoprek.</p>
       <p>
-        <img src="https://img.shields.io/badge/-nextjs-eee6f5?style=flat-square&labelColor=eee6f5&color=3d2b4f" />
-        <img src="https://img.shields.io/badge/-tracker-eee6f5?style=flat-square&labelColor=eee6f5&color=3d2b4f" />
-        <img src="https://img.shields.io/badge/-fun-eee6f5?style=flat-square&labelColor=eee6f5&color=3d2b4f" />
+        <img src="https://img.shields.io/badge/-JavaScript-eee6f5?style=flat-square&labelColor=eee6f5&color=3d2b4f" />
+        <img src="https://img.shields.io/badge/-sandbox-eee6f5?style=flat-square&labelColor=eee6f5&color=3d2b4f" />
+        <img src="https://img.shields.io/badge/-wip-eee6f5?style=flat-square&labelColor=eee6f5&color=3d2b4f" />
       </p>
     </td>
   </tr>
