@@ -1,12 +1,12 @@
 <!--
   ╔══════════════════════════════════════════════════════════════════╗
-  ║  RETRO VHS / WIBU GITHUB PROFILE  —  "BE KIND, PLEASE REWIND"     ║
+  ║  RETRO VHS GITHUB PROFILE                                        ║
   ║                                                                  ║
   ║  HOW TO USE:                                                     ║
   ║  1. Create a repo named EXACTLY like your username               ║
-  ║     (e.g. github.com/andhikapp28/andhikapp28).                 ║
+  ║                                                                  ║
   ║  2. Drop this file in as README.md.                              ║
-  ║  3. Find-and-replace  andhikapp28  with your real handle.       ║
+  ║  3. Find-and-replace  andhikapp28  with your real handle.        ║
   ║  4. Swap the AVATAR / project / social links marked TODO.        ║
   ║                                                                  ║
   ║  Palette:  cream #fdf6ec · purple #2b1f3d/#3d2b4f · ink #1c1428  ║
@@ -23,20 +23,11 @@
 <!-- Custom animated SVG (embedded fonts + resonance rings / equalizer / particles / shimmer). Edit assets/banner.svg to tweak. -->
 <img width="100%" src="./assets/banner.svg" alt="Dipa — NOW PLAYING · REC ● CH-02" />
 
-<br><br>
 
-<!-- ══ TACET MARK — cropped clip (assets/tcmark.gif) ══ -->
-<img width="82%" src="./assets/tcmark.gif" alt="Tacet Mark" />
-
-<br><br>
 
 <!-- ══ typing line (VT323 + pink) ══ -->
 <img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=30&pause=1000&color=FF5CA8&center=true&vCenter=true&width=620&lines=%3E+resonating+Wuthering+Waves" alt="&gt; resonating Wuthering Waves" />
 
-<br>
-
-<!-- ══ TACET FIELD radar scan (animated SVG) ══ -->
-<img width="560" src="./assets/tacet-field.svg" alt="TACET FIELD // SCANNING — 3 echoes detected · resonance stable" />
 
 </div>
 
@@ -44,11 +35,11 @@
 ## &gt; whoami
 
 ```text
-Nama   : Andhika Putra Pratama (Dipa)
+Nama   : Andhika Putra (Dipa)
 Kampus : Institut Teknologi Sumatera (ITERA)
 Lokasi : Indonesia
 Role   : System Analyst · Technical Writer · QA · he/him
-Now    : Wuthering Waves enjoyer + ngoding kalau lagi mood
+Now    : Wuthering Waves enjoyer + ngoding kalau lagi mood saja
 ```
 
 <br>
