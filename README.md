@@ -25,7 +25,8 @@
 <br><br>
 
 <!-- Waving VHS banner with the display name -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2b1f3d,52:ff5ca8,100:a3c9a8&height=200&section=header&text=Dipa&fontColor=fdf6ec&fontSize=58&fontAlignY=36&desc=%E2%96%B6%20NOW%20PLAYING%20%C2%B7%20REC%20%E2%97%8F%20CH-02&descAlignY=56&descSize=20&animation=twinkling" alt="Dipa" />
+<!-- Custom animated SVG (embedded fonts + resonance rings / equalizer / particles / shimmer). Edit assets/banner.svg to tweak. -->
+<img width="100%" src="./assets/banner.svg" alt="Dipa — NOW PLAYING · REC ● CH-02" />
 
 <!-- ▶ NOW PLAYING typing line (VT323 + pink) -->
 <a href="https://github.com/andhikapp28">
