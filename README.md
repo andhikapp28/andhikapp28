@@ -52,7 +52,7 @@ Now    : Wuthering Waves enjoyer + ngoding kalau lagi mood saja
 <br>
 
 <!-- ══════════════════ ◆ STATUS SCREEN ══════════════════ -->
-## ◆ STATUS SCREEN
+## ◆ STATUS
 
 <div align="center">
 
@@ -76,7 +76,7 @@ Now    : Wuthering Waves enjoyer + ngoding kalau lagi mood saja
 <br>
 
 <!-- ══════════════════ ◆ CARTRIDGE COLLECTION ══════════════════ -->
-## ◆ CARTRIDGE COLLECTION
+## ◆ TOOLS
 
 <div align="center">
 
@@ -99,7 +99,7 @@ Now    : Wuthering Waves enjoyer + ngoding kalau lagi mood saja
 <br>
 
 <!-- ══════════════════ ◆ RENTAL SHELF ══════════════════ -->
-## ◆ RENTAL SHELF — FEATURED PROJECTS
+## ◆ MY RANDOM REPO
 
 <!--
   Live badges (shields.io queries the GitHub API per view — real-time stars/forks/language,
@@ -109,7 +109,7 @@ Now    : Wuthering Waves enjoyer + ngoding kalau lagi mood saja
 | Repo | Description | |
 |---|---|---|
 | 📁 **[my-cf-katalog](https://github.com/andhikapp28/my-cf-katalog)** | Katalog buat Comic Frontiers — bantu nyari circle & artist incaran sebelum hunting di venue. | ![stars](https://img.shields.io/github/stars/andhikapp28/my-cf-katalog?style=flat-square&label=%E2%98%85&labelColor=1c1428&color=ff5ca8) ![forks](https://img.shields.io/github/forks/andhikapp28/my-cf-katalog?style=flat-square&label=%E2%91%82&labelColor=1c1428&color=6fd8d1) ![lang](https://img.shields.io/github/languages/top/andhikapp28/my-cf-katalog?style=flat-square&labelColor=1c1428) |
-| 📁 **[mybini](https://github.com/andhikapp28/mybini)** | List my bini — daftar waifu pilihan. Murni buat senang-senang, jangan dihakimi. | ![stars](https://img.shields.io/github/stars/andhikapp28/mybini?style=flat-square&label=%E2%98%85&labelColor=1c1428&color=ff5ca8) ![forks](https://img.shields.io/github/forks/andhikapp28/mybini?style=flat-square&label=%E2%91%82&labelColor=1c1428&color=6fd8d1) ![lang](https://img.shields.io/github/languages/top/andhikapp28/mybini?style=flat-square&labelColor=1c1428) |
+| 📁 **[mybini](https://github.com/andhikapp28/mybini)** | List my bini — daftar waifu pilihan. for fun only!. | ![stars](https://img.shields.io/github/stars/andhikapp28/mybini?style=flat-square&label=%E2%98%85&labelColor=1c1428&color=ff5ca8) ![forks](https://img.shields.io/github/forks/andhikapp28/mybini?style=flat-square&label=%E2%91%82&labelColor=1c1428&color=6fd8d1) ![lang](https://img.shields.io/github/languages/top/andhikapp28/mybini?style=flat-square&labelColor=1c1428) |
 | 📁 **[loginformUI](https://github.com/andhikapp28/loginformUI)** | Eksperimen tampilan form login — main-main sama styling, layout, dan micro-interaction. | ![stars](https://img.shields.io/github/stars/andhikapp28/loginformUI?style=flat-square&label=%E2%98%85&labelColor=1c1428&color=ff5ca8) ![forks](https://img.shields.io/github/forks/andhikapp28/loginformUI?style=flat-square&label=%E2%91%82&labelColor=1c1428&color=6fd8d1) ![lang](https://img.shields.io/github/languages/top/andhikapp28/loginformUI?style=flat-square&labelColor=1c1428) |
 | 📁 **[wuwek](https://github.com/andhikapp28/wuwek)** | Sandbox eksperimen JavaScript — tempat coba-coba ide random sambil ngoprek. | ![stars](https://img.shields.io/github/stars/andhikapp28/wuwek?style=flat-square&label=%E2%98%85&labelColor=1c1428&color=ff5ca8) ![forks](https://img.shields.io/github/forks/andhikapp28/wuwek?style=flat-square&label=%E2%91%82&labelColor=1c1428&color=6fd8d1) ![lang](https://img.shields.io/github/languages/top/andhikapp28/wuwek?style=flat-square&labelColor=1c1428) |
 
